@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 春秋或問
-#+DATE: 2018-03-31 09:03:09.534202
+#+DATE: 2018-03-31 09:03:09.684639
 #+PROPERTY: ID KR1e0053
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷二十
 <pb:KR1e0053_WYG_020-1a>¶
 欽定四庫全書¶
@@ -101,6 +101,6 @@
 使之逞其志於中國者魯也㑹于黄池而使之偃然與¶
 晉伯為敵者亦魯也不惟依吳以為國而又導之至以¶
 陵中國之諸侯聖人望魯之意至是絶矣是故春秋於¶
-是終焉斯義也先儒偶未之及故𤼵明之以俟知者¶
+是終焉斯義也先儒偶未之及故發明之以俟知者¶
 　春秋或問卷二十¶
 <pb:KR1e0053_WYG_020-6b>¶
